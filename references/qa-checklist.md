@@ -25,6 +25,7 @@
   support, and meta text. If text was added externally, the user must have explicitly requested an
   editable/post-production path.
 - The aspect ratio matches the card (1:1 by default, 3:4 for longer cards).
+- If this is a README/gallery/showcase card, the visual metaphor gives a reason to save the image beyond copying the sentence. One quiet object, texture, light, data hero, or margin note is enough; decorative clutter is not.
 
 ## Regenerate
 

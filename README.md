@@ -6,6 +6,7 @@
 
 ## 示例图
 
+<p><img src="examples/images/04-slowly-arrive.png" alt="慢慢来也会抵达" width="100%"><br><sub>诗意收藏卡：文字是主角，画面只负责让它更值得保存。</sub></p>
 <p><img src="examples/images/01-civilization-years.png" alt="三体金句卡 1" width="100%"><br><sub>三体金句卡 1</sub></p>
 <p><img src="examples/images/02-arrogance.png" alt="三体金句卡 2" width="100%"><br><sub>三体金句卡 2</sub></p>
 <p><img src="examples/images/03-do-not-answer.png" alt="三体金句卡 3" width="100%"><br><sub>三体金句卡 3</sub></p>

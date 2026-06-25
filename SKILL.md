@@ -28,6 +28,7 @@ A card is not a click-bait cover and not a poster. Its job is 收藏 / 转发: s
     overlay only when the user explicitly asks for editable/post-production text.
 10. Generate one card at a time.
 11. Run QA with `references/qa-checklist.md`; regenerate if it looks like a PPT slide, has no hierarchy, is over-full, or the text is garbled.
+12. For README/gallery/showcase cards, include at least one card where the visual metaphor adds save-worthiness beyond plain text: moonlight paper, a single object, data-as-hero, book margin notes, or a quiet scene. Do not let the entire gallery become white-background text-only cards.
 
 ## Save Test
 
